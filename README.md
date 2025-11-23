@@ -1,4 +1,4 @@
-# Hoteles API (básico)
+# Hoteles API
 
 Proyecto API REST simple para gestionar hoteles, tipos de habitación y habitaciones.
 
@@ -33,3 +33,4 @@ Las rutas definidas en `api_router.php` incluyen (ejemplos):
 - DELETE /tipos/{id} -> borrar tipo
 
 > Nota: actualmente la autenticación JWT no está implementada. Los endpoints POST/PUT/DELETE no están protegidos por token por defecto.
+
